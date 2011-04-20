@@ -1,0 +1,9 @@
+B B B B B 0 0 0 0 0
+B 0 0 0 B 0 0 0 0 0
+B P C C B 0 B B B 0
+B 0 C 0 B 0 B T B 0
+B B B 0 B B B T B 0
+0 B B 0 0 0 0 T B 0
+0 B 0 0 0 B 0 0 B 0
+0 B 0 0 0 B B B B 0
+0 B B B B B 0 0 0 0
