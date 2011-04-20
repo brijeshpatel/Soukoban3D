@@ -1,5 +1,4 @@
 #!/usr/bin/python
-import gutil
 import pygame
 pygame.init()
 from pygame.locals import *
